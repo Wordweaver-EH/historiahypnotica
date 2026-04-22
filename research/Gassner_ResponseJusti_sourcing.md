@@ -1,75 +1,27 @@
 # Sourcing Query: Gassner's Response to Justi (1775)
 
-## Target Text
+## Status: CITATION DOES NOT EXIST
 
-**Full title:** Johann Joseph Gaßners, der Gottsgelehrtheit und des geistlichen Rechts Candidaten, Pfarrers zu Clösterl, Antwort auf die von dem königl. dänischen Herrn Etatsrath von Justi herausgekommene zwey Schriften
+Verified via Gemini Deep Research and ChatGPT searches across Google Books, BSB, DDB, VD18, and Internet Archive.
 
-**Translation:** Johann Joseph Gassner's, Candidate of Theology and Canon Law, Pastor at Clösterle, Answer to the two writings published by the Royal Danish State Councilor von Justi
+### Conclusion
 
-**Year:** 1775  
-**Place:** Augsburg  
-**Language:** German  
-**Status:** Not yet located
+The citation is a **hallucination / conflated reference** from the original Gemini deep research. It was assembled from two real but unrelated facts:
 
----
+1. **Real:** Gassner's genuine 1775 authorial preamble — *"Johann Joseph Gaßners, der Gottsgelehrtheit und des geistlichen Rechts Candidaten, Pfarrers zu Clösterl, Antwort auf..."* — which concludes with the Munich/Deutsche Chronik response, not a Justi response.
+2. **Real but unconnected:** Johann Heinrich Gottlob von Justi (1717–1771) did hold the exact title "königlich dänischer Etatsrat" — but he **died in 1771**, four years before the Gassner controversy. He was never a participant.
 
-## Search Queries
+No response to Justi by Gassner exists in any catalog. The citation is a Frankenstein splice.
 
-### Google Books
-```
-"Gaßner" "Justi" "Antwort" 1775
-"Gassner" "Etatsrath" "Justi" exorcism
-"Antwort auf die von dem" "Justi" Augsburg 1775
-"Gaßner" "zwey Schriften" 1775
-```
+### Confirmed Real 1775 Augsburg Gassner Pamphlet
 
-### Bayerische Staatsbibliothek (BSB) — catalog.bsb-muenchen.de
-```
-Gassner Justi Antwort 1775
-Gaßner Justi
-```
-Filter: year 1775, language German
+The only verified 1775 Augsburg Gassner pamphlet is the Munich response we already hold:
 
-### Deutsche Digitale Bibliothek — deutsche-digitale-bibliothek.de
-```
-Gassner Justi 1775
-Gaßner Antwort Justi
-```
+- **Title:** Antwort auf die Anmerkungen, welche in dem Münchnerischen Intelligenzblate vom 12. November wider seine Gründe und Weise zu exorciren...
+- **Publisher:** Im Verlage bey Joseph Wolff, Augsburg, 1775
+- **Pages:** 48
+- **Holding library:** Bayerische Staatsbibliothek
+- **VD18 identifier:** 1446263X
+- **Bavarikon URL:** https://www.bavarikon.de/object/bav:BSB-MDZ-00000BSB10381494
 
-### VD18 (18th-century German imprints catalog) — vd18.de
-```
-Gassner Justi
-Gaßner Antwort Justi
-```
-VD18 is the most likely place to find this — it catalogs all German-language 18th-century imprints including pamphlets.
-
-### Internet Archive — archive.org
-```
-"Gassner" "Justi" 1775 German
-```
-
----
-
-## Notes on Justi
-
-Johann Heinrich Gottlob von Justi (1717–1771) — Prussian/Danish Cameralist economist and Enlightenment writer. Died 1771, four years before the Gassner controversy peaked. Possibilities:
-
-1. The "two writings" are **posthumous publications** of earlier Justi manuscripts
-2. The "Etatsrath von Justi" is a **different person** — a relative or namesake
-3. The research source has a **citation error** on the identity
-
-Worth cross-checking: search for Justi + Gassner to confirm which Justi this refers to before acquiring.
-
----
-
-## What to Record When Found
-
-Once located, fill in:
-
-```yaml
-source_url: [URL of best available scan]
-publisher: [publisher name]
-pages: [approximate page count]
-holding_library: [BSB / ÖNB / etc.]
-notes: [any variants, editions, or confirmed identity of Justi]
-```
+→ Already in library as `1770s/1775_Gassner_ResponseMunich.md`
