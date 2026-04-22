@@ -1,9 +1,14 @@
-Translated from https://www.deutsche-digitale-bibliothek.de/item/FOMMF3FBZS4GVZPBZ7VK7AQWKLJDM4FV
-
-________________________________
-Bought by the most reverend and esteemed Doctor Philippus Jacobus of the Monastery of St. Peter in the Black Forest in the year 1779.
-Zophius Meggle acquired it later.
-Volume VI.
+---
+author: Johann Joseph Gassner
+year: 1775
+title: "How to Live Piously and Healthily, and Also to Die Peacefully and Devoutly"
+language_original: German
+source_url: https://www.deutsche-digitale-bibliothek.de/item/FOMMF3FBZS4GVZPBZ7VK7AQWKLJDM4FV
+translation: "AI-assisted (Claude), 2024"
+translator_notes: "Provenance note: copy bought by Philippus Jacobus of the Monastery of St. Peter in the Black Forest in 1779; later acquired by Zophius Meggle (Volume VI). Some terms such as 'animal spirits' and Latin citations retained verbatim. Uncertain passages marked [?] inline."
+subject_tags: [exorcism, faith-healing, devil, spiritual-combat, suggestion, early-hypnosis-precursor]
+related_works: []
+---
 
 The Reverend Mr. Johann Joseph Gassner formerly pastor at Klösterle, now court chaplain to His High Prince the Bishop of Regensburg and professor at Ellwangen, etc. 
 
