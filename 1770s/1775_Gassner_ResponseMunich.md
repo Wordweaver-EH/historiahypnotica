@@ -1,4 +1,5 @@
-**Johann Joseph Gaßners Antwort** (Augsburg, 1775)
+**https://www.bavarikon.de/object/bav%3ABSB-MDZ-00000BSB10622674?cq=&lang=de
+Johann Joseph Gaßners Antwort** (Augsburg, 1775)
 
 ---
 
